@@ -1,0 +1,75 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757063135404,
+    "producer": "",
+    "tstext": "2025-09-05 17:05:35"
+  },
+  "data": {
+    "endDate": "2025-09-04",
+    "lastDateEn": "03 Sep 2025",
+    "startDate": "2025-08-22",
+    "lastDate": "2025-09-03"
+  },
+  "records": [
+    {
+      "instrmntCd": "DR001",
+      "openRepoRate": "1.3000",
+      "clsngRepoRate": "1.3000",
+      "wghtdAvgRepoRate": "1.3140",
+      "wghtdAvgRepoDebtRate": "1.3140",
+      "avgPrd": "1.00",
+      "dlNo": "3218",
+      "trdVol": "24734.3662",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "DR007",
+      "openRepoRate": "1.4000",
+      "clsngRepoRate": "1.4500",
+      "wghtdAvgRepoRate": "1.4415",
+      "wghtdAvgRepoDebtRate": "1.4415",
+      "avgPrd": "6.42",
+      "dlNo": "266",
+      "trdVol": "839.2783",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "DR014",
+      "openRepoRate": "1.4800",
+      "clsngRepoRate": "1.4800",
+      "wghtdAvgRepoRate": "1.4901",
+      "wghtdAvgRepoDebtRate": "1.4901",
+      "avgPrd": "13.73",
+      "dlNo": "26",
+      "trdVol": "78.2650",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "DR021",
+      "openRepoRate": "1.5000",
+      "clsngRepoRate": "1.5000",
+      "wghtdAvgRepoRate": "1.4536",
+      "wghtdAvgRepoDebtRate": "1.4536",
+      "avgPrd": "20.78",
+      "dlNo": "8",
+      "trdVol": "27.4997",
+      "sortNo": 21
+    },
+    {
+      "instrmntCd": "DR1M",
+      "openRepoRate": "1.4600",
+      "clsngRepoRate": "1.4800",
+      "wghtdAvgRepoRate": "1.5444",
+      "wghtdAvgRepoDebtRate": "1.5444",
+      "avgPrd": "28.33",
+      "dlNo": "7",
+      "trdVol": "21.8000",
+      "sortNo": 30
+    }
+  ]
+}

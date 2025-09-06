@@ -1,0 +1,121 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757063129409,
+    "producer": "",
+    "tstext": "2025-09-05 17:05:29"
+  },
+  "data": {
+    "updateDate": null,
+    "endDate": "2025-09-04",
+    "lastDateEn": "03 Sep 2025",
+    "startDate": "2025-08-22",
+    "lastDate": "2025-09-03"
+  },
+  "records": [
+    {
+      "instrmntCd": "IBO001",
+      "openOfrdRate": "1.3000",
+      "clsngOfrdRate": "1.3600",
+      "wghtdAvgOfrdRate": "1.3547",
+      "avgPrd": "1.00",
+      "dlNo": "420",
+      "trdVol": "3019.5700",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "IBO007",
+      "openOfrdRate": "1.4000",
+      "clsngOfrdRate": "1.4300",
+      "wghtdAvgOfrdRate": "1.4577",
+      "avgPrd": "6.72",
+      "dlNo": "219",
+      "trdVol": "337.0600",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "IBO014",
+      "openOfrdRate": "1.4800",
+      "clsngOfrdRate": "1.4800",
+      "wghtdAvgOfrdRate": "1.5024",
+      "avgPrd": "13.42",
+      "dlNo": "5",
+      "trdVol": "8.3000",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "IBO021",
+      "openOfrdRate": "1.6000",
+      "clsngOfrdRate": "1.6000",
+      "wghtdAvgOfrdRate": "1.6000",
+      "avgPrd": "21.00",
+      "dlNo": "1",
+      "trdVol": "1.4000",
+      "sortNo": 21
+    },
+    {
+      "instrmntCd": "IBO1M",
+      "openOfrdRate": "1.5300",
+      "clsngOfrdRate": "1.6500",
+      "wghtdAvgOfrdRate": "1.5567",
+      "avgPrd": "24.67",
+      "dlNo": "3",
+      "trdVol": "4.5000",
+      "sortNo": 30
+    },
+    {
+      "instrmntCd": "IBO2M",
+      "openOfrdRate": "1.5500",
+      "clsngOfrdRate": "1.5000",
+      "wghtdAvgOfrdRate": "1.5295",
+      "avgPrd": "45.64",
+      "dlNo": "10",
+      "trdVol": "11.1000",
+      "sortNo": 60
+    },
+    {
+      "instrmntCd": "IBO3M",
+      "openOfrdRate": "1.5500",
+      "clsngOfrdRate": "1.5800",
+      "wghtdAvgOfrdRate": "1.5662",
+      "avgPrd": "90.92",
+      "dlNo": "13",
+      "trdVol": "18.3000",
+      "sortNo": 90
+    },
+    {
+      "instrmntCd": "IBO4M",
+      "openOfrdRate": "2.0500",
+      "clsngOfrdRate": "2.0500",
+      "wghtdAvgOfrdRate": "2.0500",
+      "avgPrd": "117.00",
+      "dlNo": "1",
+      "trdVol": "1.0000",
+      "sortNo": 120
+    },
+    {
+      "instrmntCd": "IBO6M",
+      "openOfrdRate": "1.9500",
+      "clsngOfrdRate": "1.9500",
+      "wghtdAvgOfrdRate": "1.9500",
+      "avgPrd": "181.00",
+      "dlNo": "1",
+      "trdVol": "1.0000",
+      "sortNo": 180
+    },
+    {
+      "instrmntCd": "IBO1Y",
+      "openOfrdRate": "2.0800",
+      "clsngOfrdRate": "2.0800",
+      "wghtdAvgOfrdRate": "2.0800",
+      "avgPrd": "360.00",
+      "dlNo": "1",
+      "trdVol": "1.0000",
+      "sortNo": 365
+    }
+  ]
+}

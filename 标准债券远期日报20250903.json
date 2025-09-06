@@ -1,0 +1,64 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757063137779,
+    "producer": "",
+    "tstext": "2025-09-05 17:05:37"
+  },
+  "data": {
+    "endDate": "2025-09-04",
+    "lastDateEn": "03 Sep 2025",
+    "startDate": "2025-08-22",
+    "lastDate": "2025-09-03"
+  },
+  "records": [
+    {
+      "cntrctVrty": "ADBC10_2509",
+      "theDayAcmltdTrdVol": "1.0000"
+    },
+    {
+      "cntrctVrty": "ADBC2_2509P",
+      "theDayAcmltdTrdVol": "100.0000"
+    },
+    {
+      "cntrctVrty": "ADBC2_2512P",
+      "theDayAcmltdTrdVol": "100.0000"
+    },
+    {
+      "cntrctVrty": "ADBC5_2512",
+      "theDayAcmltdTrdVol": "50.0000"
+    },
+    {
+      "cntrctVrty": "ADBC7_2509P",
+      "theDayAcmltdTrdVol": "100.0000"
+    },
+    {
+      "cntrctVrty": "ADBC7_2512P",
+      "theDayAcmltdTrdVol": "100.0000"
+    },
+    {
+      "cntrctVrty": "CDB10_2509",
+      "theDayAcmltdTrdVol": "4.0000"
+    },
+    {
+      "cntrctVrty": "CDB10_2512",
+      "theDayAcmltdTrdVol": "8.0000"
+    },
+    {
+      "cntrctVrty": "CDB5_2509",
+      "theDayAcmltdTrdVol": "1.0000"
+    },
+    {
+      "cntrctVrty": "CDB5_2512",
+      "theDayAcmltdTrdVol": "50.0000"
+    },
+    {
+      "cntrctVrty": "CDB7_2512P",
+      "theDayAcmltdTrdVol": "100.0000"
+    }
+  ]
+}

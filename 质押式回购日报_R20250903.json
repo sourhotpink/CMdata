@@ -1,0 +1,97 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757063132540,
+    "producer": "",
+    "tstext": "2025-09-05 17:05:32"
+  },
+  "data": {
+    "endDate": "2025-09-04",
+    "lastDateEn": "03 Sep 2025",
+    "startDate": "2025-08-22",
+    "lastDate": "2025-09-03"
+  },
+  "records": [
+    {
+      "instrmntCd": "R001",
+      "openRepoRate": "1.3000",
+      "clsngRepoRate": "1.4800",
+      "wghtdAvgRepoRate": "1.3543",
+      "wghtdAvgRepoDebtRate": "1.3394",
+      "avgPrd": "1.00",
+      "dlNo": "15547",
+      "trdVol": "61603.3050",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "R007",
+      "openRepoRate": "1.4000",
+      "clsngRepoRate": "1.5500",
+      "wghtdAvgRepoRate": "1.4644",
+      "wghtdAvgRepoDebtRate": "1.4490",
+      "avgPrd": "6.86",
+      "dlNo": "4712",
+      "trdVol": "5921.7425",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "R014",
+      "openRepoRate": "1.4800",
+      "clsngRepoRate": "1.5500",
+      "wghtdAvgRepoRate": "1.4940",
+      "wghtdAvgRepoDebtRate": "1.4879",
+      "avgPrd": "13.76",
+      "dlNo": "688",
+      "trdVol": "661.4049",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "R021",
+      "openRepoRate": "1.5000",
+      "clsngRepoRate": "1.5100",
+      "wghtdAvgRepoRate": "1.4962",
+      "wghtdAvgRepoDebtRate": "1.4560",
+      "avgPrd": "20.43",
+      "dlNo": "80",
+      "trdVol": "59.3356",
+      "sortNo": 21
+    },
+    {
+      "instrmntCd": "R1M",
+      "openRepoRate": "1.6000",
+      "clsngRepoRate": "1.5000",
+      "wghtdAvgRepoRate": "1.5481",
+      "wghtdAvgRepoDebtRate": "1.5500",
+      "avgPrd": "28.51",
+      "dlNo": "19",
+      "trdVol": "56.9100",
+      "sortNo": 30
+    },
+    {
+      "instrmntCd": "R2M",
+      "openRepoRate": "1.5500",
+      "clsngRepoRate": "1.5500",
+      "wghtdAvgRepoRate": "1.5983",
+      "wghtdAvgRepoDebtRate": "1.5500",
+      "avgPrd": "37.87",
+      "dlNo": "10",
+      "trdVol": "4.6400",
+      "sortNo": 60
+    },
+    {
+      "instrmntCd": "R3M",
+      "openRepoRate": "1.5900",
+      "clsngRepoRate": "1.5900",
+      "wghtdAvgRepoRate": "1.5900",
+      "wghtdAvgRepoDebtRate": "1.5900",
+      "avgPrd": "68.40",
+      "dlNo": "3",
+      "trdVol": "10.0000",
+      "sortNo": 90
+    }
+  ]
+}
