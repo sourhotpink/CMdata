@@ -1,0 +1,90 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757167604558,
+    "producer": "",
+    "tstext": "2025-09-06 22:06:44"
+  },
+  "data": {
+    "endDate": "2025-09-06",
+    "lastDateEn": "04 Sep 2025",
+    "startDate": "2025-08-24",
+    "lastDate": "2025-09-04"
+  },
+  "records": [
+    {
+      "instrmntCd": "L001",
+      "openLngdngRate": "0.2500",
+      "clsngLngdngRate": "0.1000",
+      "hghstLngdngRate": "1.3500",
+      "lwstLngdngRate": "0.0999",
+      "wghtdAvgLngdngRate": "0.3959",
+      "trdVol": "125760.0000",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "L007",
+      "openLngdngRate": "0.2800",
+      "clsngLngdngRate": "0.1000",
+      "hghstLngdngRate": "1.4000",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.3924",
+      "trdVol": "103805.0000",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "L014",
+      "openLngdngRate": "0.2600",
+      "clsngLngdngRate": "0.1200",
+      "hghstLngdngRate": "1.2200",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.2801",
+      "trdVol": "19970.0000",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "L021",
+      "openLngdngRate": "0.3000",
+      "clsngLngdngRate": "0.1000",
+      "hghstLngdngRate": "1.0200",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.3130",
+      "trdVol": "1760.0000",
+      "sortNo": 21
+    },
+    {
+      "instrmntCd": "L1M",
+      "openLngdngRate": "0.5000",
+      "clsngLngdngRate": "0.1000",
+      "hghstLngdngRate": "0.5000",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.1110",
+      "trdVol": "1750.0000",
+      "sortNo": 30
+    },
+    {
+      "instrmntCd": "L2M",
+      "openLngdngRate": "0.1000",
+      "clsngLngdngRate": "1.2000",
+      "hghstLngdngRate": "1.2500",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.3789",
+      "trdVol": "15370.0000",
+      "sortNo": 60
+    },
+    {
+      "instrmntCd": "L3M",
+      "openLngdngRate": "0.1000",
+      "clsngLngdngRate": "0.1000",
+      "hghstLngdngRate": "0.3500",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.1862",
+      "trdVol": "1450.0000",
+      "sortNo": 90
+    }
+  ]
+}

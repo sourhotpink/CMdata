@@ -1,0 +1,116 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757167603845,
+    "producer": "",
+    "tstext": "2025-09-06 22:06:43"
+  },
+  "data": {
+    "endDate": "2025-09-06",
+    "lastDateEn": "04 Sep 2025",
+    "startDate": "2025-08-24",
+    "lastDate": "2025-09-04"
+  },
+  "records": [
+    {
+      "refIntrstRateNm": "FR007",
+      "refIntrstRateNmEn": "FR007",
+      "rateList": [
+        {
+          "prd": "3M",
+          "wghtdAvgFxngRate": "1.5404",
+          "trdVol": "24250.00",
+          "sortNo": 90
+        },
+        {
+          "prd": "6M",
+          "wghtdAvgFxngRate": "1.5618",
+          "trdVol": "9000.00",
+          "sortNo": 180
+        },
+        {
+          "prd": "9M",
+          "wghtdAvgFxngRate": "1.5449",
+          "trdVol": "6850.00",
+          "sortNo": 270
+        },
+        {
+          "prd": "1Y",
+          "wghtdAvgFxngRate": "1.5290",
+          "trdVol": "69060.00",
+          "sortNo": 365
+        },
+        {
+          "prd": "2Y",
+          "wghtdAvgFxngRate": "1.5202",
+          "trdVol": "23825.00",
+          "sortNo": 730
+        },
+        {
+          "prd": "3Y",
+          "wghtdAvgFxngRate": "1.5397",
+          "trdVol": "1650.00",
+          "sortNo": 1095
+        },
+        {
+          "prd": "4Y",
+          "wghtdAvgFxngRate": "1.5762",
+          "trdVol": "6750.00",
+          "sortNo": 1460
+        },
+        {
+          "prd": "5Y",
+          "wghtdAvgFxngRate": "1.6049",
+          "trdVol": "50170.00",
+          "sortNo": 1825
+        }
+      ]
+    },
+    {
+      "refIntrstRateNm": "LPR1Y",
+      "refIntrstRateNmEn": "LPR1Y",
+      "rateList": [
+        {
+          "prd": "9M",
+          "wghtdAvgFxngRate": "3.0400",
+          "trdVol": "500.00",
+          "sortNo": 270
+        },
+        {
+          "prd": "1Y",
+          "wghtdAvgFxngRate": "2.9763",
+          "trdVol": "600.00",
+          "sortNo": 365
+        }
+      ]
+    },
+    {
+      "refIntrstRateNm": "Shibor3M",
+      "refIntrstRateNmEn": "Shibor3M",
+      "rateList": [
+        {
+          "prd": "6M",
+          "wghtdAvgFxngRate": "1.5800",
+          "trdVol": "450.00",
+          "sortNo": 180
+        },
+        {
+          "prd": "1Y",
+          "wghtdAvgFxngRate": "1.5952",
+          "trdVol": "550.00",
+          "sortNo": 365
+        },
+        {
+          "prd": "5Y",
+          "wghtdAvgFxngRate": "1.6415",
+          "trdVol": "660.00",
+          "sortNo": 1825
+        }
+      ]
+    }
+  ]
+}
