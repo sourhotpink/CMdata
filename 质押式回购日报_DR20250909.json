@@ -1,0 +1,86 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757383395395,
+    "producer": "",
+    "tstext": "2025-09-09 10:03:15"
+  },
+  "data": {
+    "endDate": "2025-09-08",
+    "lastDateEn": "08 Sep 2025",
+    "startDate": "2025-08-26",
+    "lastDate": "2025-09-08"
+  },
+  "records": [
+    {
+      "instrmntCd": "DR001",
+      "openRepoRate": "1.3000",
+      "clsngRepoRate": "1.3000",
+      "wghtdAvgRepoRate": "1.3570",
+      "wghtdAvgRepoDebtRate": "1.3570",
+      "avgPrd": "1.00",
+      "dlNo": "3255",
+      "trdVol": "27434.5083",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "DR007",
+      "openRepoRate": "1.4000",
+      "clsngRepoRate": "1.4800",
+      "wghtdAvgRepoRate": "1.4523",
+      "wghtdAvgRepoDebtRate": "1.4523",
+      "avgPrd": "6.84",
+      "dlNo": "271",
+      "trdVol": "811.4264",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "DR014",
+      "openRepoRate": "1.4800",
+      "clsngRepoRate": "1.4800",
+      "wghtdAvgRepoRate": "1.4697",
+      "wghtdAvgRepoDebtRate": "1.4697",
+      "avgPrd": "13.85",
+      "dlNo": "45",
+      "trdVol": "148.3179",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "DR021",
+      "openRepoRate": "1.5000",
+      "clsngRepoRate": "1.4500",
+      "wghtdAvgRepoRate": "1.4729",
+      "wghtdAvgRepoDebtRate": "1.4729",
+      "avgPrd": "18.71",
+      "dlNo": "5",
+      "trdVol": "7.0000",
+      "sortNo": 21
+    },
+    {
+      "instrmntCd": "DR1M",
+      "openRepoRate": "1.5000",
+      "clsngRepoRate": "1.5500",
+      "wghtdAvgRepoRate": "1.5538",
+      "wghtdAvgRepoDebtRate": "1.5538",
+      "avgPrd": "29.49",
+      "dlNo": "10",
+      "trdVol": "37.0350",
+      "sortNo": 30
+    },
+    {
+      "instrmntCd": "DR2M",
+      "openRepoRate": "1.5800",
+      "clsngRepoRate": "1.5100",
+      "wghtdAvgRepoRate": "1.5773",
+      "wghtdAvgRepoDebtRate": "1.5773",
+      "avgPrd": "32.92",
+      "dlNo": "5",
+      "trdVol": "26.0000",
+      "sortNo": 60
+    }
+  ]
+}

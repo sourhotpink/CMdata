@@ -1,0 +1,60 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757383396193,
+    "producer": "",
+    "tstext": "2025-09-09 10:03:16"
+  },
+  "data": {
+    "endDate": "2025-09-08",
+    "lastDateEn": "08 Sep 2025",
+    "startDate": "2025-08-26",
+    "lastDate": "2025-09-08"
+  },
+  "records": [
+    {
+      "instrmntCd": "OR001",
+      "openRepoRate": "1.3800",
+      "clsngRepoRate": "1.4590",
+      "hghstRepoRate": "1.5811",
+      "lwstRepoRate": "0.8197",
+      "wghtdAvgRepoRate": "1.3959",
+      "trdVol": "348.9686",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "OR007",
+      "openRepoRate": "1.2996",
+      "clsngRepoRate": "1.4475",
+      "hghstRepoRate": "1.4622",
+      "lwstRepoRate": "1.1948",
+      "wghtdAvgRepoRate": "1.4275",
+      "trdVol": "33.8589",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "OR014",
+      "openRepoRate": "0.7988",
+      "clsngRepoRate": "0.7988",
+      "hghstRepoRate": "0.7988",
+      "lwstRepoRate": "0.7988",
+      "wghtdAvgRepoRate": "0.7988",
+      "trdVol": "0.9478",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "OR021",
+      "openRepoRate": "0.8002",
+      "clsngRepoRate": "0.8002",
+      "hghstRepoRate": "0.8002",
+      "lwstRepoRate": "0.7992",
+      "wghtdAvgRepoRate": "0.8001",
+      "trdVol": "5.5064",
+      "sortNo": 21
+    }
+  ]
+}

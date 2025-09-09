@@ -1,0 +1,101 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757383392878,
+    "producer": "",
+    "tstext": "2025-09-09 10:03:12"
+  },
+  "data": {
+    "updateDate": null,
+    "endDate": "2025-09-08",
+    "lastDateEn": "08 Sep 2025",
+    "startDate": "2025-08-26",
+    "lastDate": "2025-09-08"
+  },
+  "records": [
+    {
+      "instrmntCd": "DIBO001",
+      "openOfrdRate": "1.3800",
+      "clsngOfrdRate": "1.4000",
+      "wghtdAvgOfrdRate": "1.3732",
+      "avgPrd": "1.00",
+      "dlNo": "275",
+      "trdVol": "3069.7100",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "DIBO007",
+      "openOfrdRate": "1.4800",
+      "clsngOfrdRate": "1.5700",
+      "wghtdAvgOfrdRate": "1.4609",
+      "avgPrd": "6.77",
+      "dlNo": "35",
+      "trdVol": "55.4000",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "DIBO014",
+      "openOfrdRate": "1.5200",
+      "clsngOfrdRate": "1.5200",
+      "wghtdAvgOfrdRate": "1.5032",
+      "avgPrd": "12.28",
+      "dlNo": "10",
+      "trdVol": "13.2500",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "DIBO021",
+      "openOfrdRate": "1.7300",
+      "clsngOfrdRate": "1.6000",
+      "wghtdAvgOfrdRate": "1.5228",
+      "avgPrd": "20.66",
+      "dlNo": "5",
+      "trdVol": "23.8000",
+      "sortNo": 21
+    },
+    {
+      "instrmntCd": "DIBO1M",
+      "openOfrdRate": "1.5500",
+      "clsngOfrdRate": "2.1000",
+      "wghtdAvgOfrdRate": "1.7071",
+      "avgPrd": "24.29",
+      "dlNo": "2",
+      "trdVol": "1.4000",
+      "sortNo": 30
+    },
+    {
+      "instrmntCd": "DIBO2M",
+      "openOfrdRate": "1.5100",
+      "clsngOfrdRate": "1.5900",
+      "wghtdAvgOfrdRate": "1.5688",
+      "avgPrd": "34.75",
+      "dlNo": "3",
+      "trdVol": "4.0000",
+      "sortNo": 60
+    },
+    {
+      "instrmntCd": "DIBO3M",
+      "openOfrdRate": "1.6500",
+      "clsngOfrdRate": "2.3000",
+      "wghtdAvgOfrdRate": "2.2717",
+      "avgPrd": "89.72",
+      "dlNo": "3",
+      "trdVol": "6.9000",
+      "sortNo": 90
+    },
+    {
+      "instrmntCd": "DIBO1Y",
+      "openOfrdRate": "1.9000",
+      "clsngOfrdRate": "2.0000",
+      "wghtdAvgOfrdRate": "1.9909",
+      "avgPrd": "360.00",
+      "dlNo": "2",
+      "trdVol": "5.5000",
+      "sortNo": 365
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1757385057461,
+    "producer": "",
+    "tstext": "2025-09-09 10:30:57"
+  },
+  "data": {
+    "endDate": "2025-09-08",
+    "lastDateEn": "05 Sep 2025",
+    "startDate": "2025-08-26",
+    "lastDate": "2025-09-05"
+  },
+  "records": [
+    {
+      "instrmntCd": "L001",
+      "openLngdngRate": "0.2900",
+      "clsngLngdngRate": "0.1900",
+      "hghstLngdngRate": "1.2500",
+      "lwstLngdngRate": "0.0998",
+      "wghtdAvgLngdngRate": "0.4464",
+      "trdVol": "120770.0000",
+      "sortNo": 1
+    },
+    {
+      "instrmntCd": "L007",
+      "openLngdngRate": "0.1000",
+      "clsngLngdngRate": "1.1300",
+      "hghstLngdngRate": "1.2800",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.3319",
+      "trdVol": "83730.0000",
+      "sortNo": 7
+    },
+    {
+      "instrmntCd": "L014",
+      "openLngdngRate": "1.1300",
+      "clsngLngdngRate": "1.0200",
+      "hghstLngdngRate": "1.2200",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.2497",
+      "trdVol": "19170.0000",
+      "sortNo": 14
+    },
+    {
+      "instrmntCd": "L021",
+      "openLngdngRate": "0.1000",
+      "clsngLngdngRate": "0.2400",
+      "hghstLngdngRate": "0.3400",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.1769",
+      "trdVol": "2290.0000",
+      "sortNo": 21
+    },
+    {
+      "instrmntCd": "L1M",
+      "openLngdngRate": "1.2100",
+      "clsngLngdngRate": "0.3900",
+      "hghstLngdngRate": "1.2100",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.7597",
+      "trdVol": "1910.0000",
+      "sortNo": 30
+    },
+    {
+      "instrmntCd": "L2M",
+      "openLngdngRate": "0.1000",
+      "clsngLngdngRate": "0.2700",
+      "hghstLngdngRate": "1.2700",
+      "lwstLngdngRate": "0.1000",
+      "wghtdAvgLngdngRate": "0.3163",
+      "trdVol": "21090.0000",
+      "sortNo": 60
+    },
+    {
+      "instrmntCd": "L3M",
+      "openLngdngRate": "0.1200",
+      "clsngLngdngRate": "0.1500",
+      "hghstLngdngRate": "0.3000",
+      "lwstLngdngRate": "0.1200",
+      "wghtdAvgLngdngRate": "0.2067",
+      "trdVol": "1880.0000",
+      "sortNo": 90
+    },
+    {
+      "instrmntCd": "L4M",
+      "openLngdngRate": "0.2700",
+      "clsngLngdngRate": "0.2700",
+      "hghstLngdngRate": "0.2700",
+      "lwstLngdngRate": "0.2700",
+      "wghtdAvgLngdngRate": "0.2700",
+      "trdVol": "300.0000",
+      "sortNo": 120
+    },
+    {
+      "instrmntCd": "L6M",
+      "openLngdngRate": "0.1300",
+      "clsngLngdngRate": "0.1300",
+      "hghstLngdngRate": "0.1300",
+      "lwstLngdngRate": "0.1300",
+      "wghtdAvgLngdngRate": "0.1300",
+      "trdVol": "1000.0000",
+      "sortNo": 180
+    }
+  ]
+}
